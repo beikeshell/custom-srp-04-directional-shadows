@@ -1,6 +1,5 @@
 ﻿Shader "Custom RP/Lit"
 {
-
     Properties
     {
         _BaseMap("Texture", 2D) = "white" {}
